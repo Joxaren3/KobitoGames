@@ -1,0 +1,57 @@
+# Unity が自動生成するフォルダ（コミットしない）
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# アセットストア関連
+/[Aa]ssets/AssetStoreTools*
+
+# IDE / エディタ
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity が作るメタファイルのうち不要なもの
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# クラッシュレポート
+sysinfo.txt
+
+# ビルド成果物
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics
+crashlytics-build.properties
+
+# Gradle
+.gradle/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
